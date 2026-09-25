@@ -1,0 +1,27 @@
+===============================================
+           READ ME - RECIPE MANAGER
+===============================================
+
+HOW TO RUN THE PROGRAM:
+1. Open your terminal or command prompt.
+2. Go to the folder where you saved the project files.
+3. Type the following command and press Enter:
+   python w2212798_recipe_manager.py
+
+REQUIREMENTS:
+- Python 3.14.2 or higher.
+- No extra installations are needed. The program only uses Python's built-in modules.
+
+IMPORTANT NOTES:
+- The program will automatically create a file called 'w2212798_recipes.txt' in the same folder to save your data. Make sure the folder has read/write permissions.
+- Do not do any changes to the 'w2212798_recipes.txt' file.
+- Always use the "Exit" option in the main menu to close the program safely so your data saves correctly.
+
+FEATURES INCLUDED:
+- Add recipes with automatic ID generation and strict input validation.
+- View all recipes, view by ID, or count recipes by category.
+- Search for recipes by a specific ingredient or maximum cooking time.
+- Save and load data automatically to a text file.
+- Export an individual recipe to its own separate text file.
+- Manage recipes by deleting specific ingredients or duplicating whole recipes.
+- View summary statistics of the entire recipe book.

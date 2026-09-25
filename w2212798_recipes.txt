@@ -1,0 +1,45 @@
+=====RECIPE=====
+Id: RCP001
+Name: Pancakes
+Category: breakfast
+Time: 00:20
+Ingredients: Flour,200.0,g | Milk,250.0,ml | Eggs,2.0,piece
+Tags: Quick,Sweet,Vegetarian
+=====END=====
+
+=====RECIPE=====
+Id: RCP002
+Name: Spaghetti
+Category: dinner
+Time: 01:15
+Ingredients: Pasta,400.0,g | Beef,500.0,g | Sauce,400.0,ml | Onion,1.0,piece
+Tags: Comfort Food,Italian
+=====END=====
+
+=====RECIPE=====
+Id: RCP003
+Name: Smoothie
+Category: beverage
+Time: 00:05
+Ingredients: Banana,1.0,piece | Milk,200.0,ml | Honey,1.0,tbsp
+Tags: Quick,Healthy,Cold
+=====END=====
+
+=====RECIPE=====
+Id: RCP004
+Name: Cookies
+Category: dessert
+Time: 00:45
+Ingredients: Flour,250.0,g | Butter,115.0,g | Sugar,150.0,g | Chips,200.0,g
+Tags: Snack,Baked,Sweet
+=====END=====
+
+=====RECIPE=====
+Id: RCP005
+Name: Peanut Butter Chocolate Chip Cookies
+Category: dessert
+Time: 00:12
+Ingredients: Peanut Butter,1.0,cup | Sugar,250.0,g | Egg,1.0,piece | Vanilla,1.0,tsp | Chovolate chips,0.5,kg
+Tags: Sweet,quick
+=====END=====
+
