@@ -1,7 +1,7 @@
 def save_file(recipes):
     """This is to save the recipes to a file"""
     try:    
-        with open("w2212798_recipes.txt", "w") as fo: #open the file to write
+        with open("recipes.txt", "w") as fo: #open the file to write
             for id,i in recipes.items():
                 file_ingredients = []
 
@@ -28,7 +28,7 @@ def save_file(recipes):
 def load_file(recipes):
     """This is to load recipes"""
     try:
-        with open("w2212798_recipes.txt", "r") as fo:
+        with open("recipes.txt", "r") as fo:
             lines = fo.readlines()#read all lines
         temp_id = ""
         temp_recipe = {}
